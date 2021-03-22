@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pixel2/static/css/main.13783d1f.chunk.css",
+    "main.js": "/pixel2/static/js/main.d77bca06.chunk.js",
+    "main.js.map": "/pixel2/static/js/main.d77bca06.chunk.js.map",
+    "runtime-main.js": "/pixel2/static/js/runtime-main.1f1240a5.js",
+    "runtime-main.js.map": "/pixel2/static/js/runtime-main.1f1240a5.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/pixel2/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/pixel2/static/js/2.c0a0a7e2.chunk.js.map",
+    "static/js/3.31a47d2b.chunk.js": "/pixel2/static/js/3.31a47d2b.chunk.js",
+    "static/js/3.31a47d2b.chunk.js.map": "/pixel2/static/js/3.31a47d2b.chunk.js.map",
+    "index.html": "/pixel2/index.html",
+    "static/css/main.13783d1f.chunk.css.map": "/pixel2/static/css/main.13783d1f.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/pixel2/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/pixel2/static/media/hero-bg-mobile.56d0d7be.jpg",
+    "static/media/menu-item1.7bd94a87.jpg": "/pixel2/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.81249e77.jpg": "/pixel2/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.22eddbf1.jpg": "/pixel2/static/media/menu-item3.22eddbf1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f1240a5.js",
+    "static/js/2.c0a0a7e2.chunk.js",
+    "static/css/main.13783d1f.chunk.css",
+    "static/js/main.d77bca06.chunk.js"
+  ]
+}
