@@ -1,0 +1,35 @@
+
+.btn{
+    width: 245px;
+    height: 64px;
+    border: 1px solid #ffffff;
+    color:#ffffff;
+
+
+    font-family: "Spartan-SemiBold";
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-align: left;
+    text-transform: uppercase;
+
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    cursor: pointer;
+    &.dark-btn{
+        background-color: #111111;
+    }
+    &.transparent-btn{
+        background-color: transparent;
+    }
+}
+@media only screen and (max-width:376px){
+    .btn-wrapper{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+}

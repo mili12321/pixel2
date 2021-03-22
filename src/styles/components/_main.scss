@@ -1,0 +1,58 @@
+
+.main-card-wrapper,.main-card-wrapper2{
+    display: flex;
+    .main-card-img{
+        box-shadow: 0 61px 46px 0px #5a586b7d;
+    }
+}
+@media only screen and (max-width:375px){
+    .header-main{
+        height: 1454px;
+    }
+    .main-card-wrapper,.main-card-wrapper2{
+        flex-direction: column;
+        display: flex;
+        align-items:center ;
+        .main-card-img{
+            box-shadow: 0 61px 46px 0px #5a586b7d;
+            width: 327px;
+            height: 400px;
+            margin-bottom: 87px;
+            background-image: url(../../img/enjoyable-place-mobile.jpg);
+            // enjoyable-place-desktop
+        }
+    }
+    .main-card-wrapper{
+        margin-top: -72px;
+        margin-bottom: 108px;
+    }
+}
+@media only screen and (min-width:376px){
+    .header-main{
+        height: 1411px;
+    }
+    .main-card-wrapper,.main-card-wrapper2{
+        margin: 0 auto;
+        display: flex;
+        place-items: center;
+        .main-card-img{
+            width: 540px;
+            height: 720px;
+            background-image: url(../../img/enjoyable-place-desktop.jpg);
+        }
+    }
+    .main-card-wrapper{
+        .main-card-img{
+            margin-right: 125px;
+            margin-top: -41px;
+            margin-bottom: 121px;
+        }
+    }
+    .main-card-wrapper2{
+        flex-direction: row-reverse;
+        .main-card-img{
+            margin-left: 125px;
+            margin-bottom: -80px;
+        }
+    }
+}

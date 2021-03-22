@@ -1,0 +1,40 @@
+.header-container{
+    width: 100%;
+    background-color: #111111;
+}
+
+
+@media only screen and (max-width:375px){
+    .header-container{
+        height: 748px;
+        background-image: url(../../img/hero-bg-mobile.jpg);
+        padding-top: 232px;
+        .logo{
+            margin-bottom: 32px;
+            font-weight: bold;
+            height: 32px;
+            margin: 0 auto;
+        }
+        .btn-wrapper{
+            margin-top: 63px;
+        }
+    }
+
+}
+
+@media only screen and (min-width:376px){
+    .header-container{
+        height: 820px;
+        background-image: url(../../img/hero-bg-desktop.jpg);
+        padding-top: 65px;
+        .logo{
+            margin-bottom: 153px;
+            font-weight: bold;
+            height: 40px;
+        }
+        .btn-wrapper{
+            margin-top: 50px;
+        }
+    }
+    
+}

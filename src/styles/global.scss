@@ -1,0 +1,23 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/functions.scss";
+@import "setup/mixins.scss";
+@import "setup/typography.scss";
+
+// Basics
+@import "basics/helpers.scss";
+@import "basics/layout.scss";
+@import "basics/base.scss";
+@import "basics/links.scss";
+@import "basics/buttons.scss";
+
+// components
+@import "components/navbar.scss";
+@import "components/content-container.scss";
+@import "components/header.scss";
+@import "components/main.scss";
+@import "components/pixel-main.scss";
+@import "components/footer.scss";
+
+// views
+@import "views/home.scss";
